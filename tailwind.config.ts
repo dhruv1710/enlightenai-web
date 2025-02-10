@@ -12,6 +12,11 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      
+            boxShadow: {
+              neumorphic: '8px 8px 16px #bebebe, -8px -8px 16px #ffffff',
+            
+      }
     },
   },
   plugins: [],

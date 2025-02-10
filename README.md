@@ -1,4 +1,4 @@
-# Questgen Documentation
+# Enlighten AI Web Documentation
 
 ## Project Overview
 
